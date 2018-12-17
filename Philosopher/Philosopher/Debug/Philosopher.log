@@ -1,0 +1,4 @@
+﻿  Philosopher.cpp
+d:\lr\ос\2\diningphilosophers\philosopher\philosopher\philosopher.cpp(48): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Philosopher.vcxproj -> D:\LR\ОС\2\DiningPhilosophers\Philosopher\Debug\Philosopher.exe
+  Philosopher.vcxproj -> D:\LR\ОС\2\DiningPhilosophers\Philosopher\Debug\Philosopher.pdb (Full PDB)
